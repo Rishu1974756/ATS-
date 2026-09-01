@@ -81,7 +81,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<h1 class="main-title">📄 Resume Application Tracking System (ATS) by Goutham Aduri - GENAI Project 🚀</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="main-title">📄 Resume Application Tracking System (ATS) by Rishu Kumar - GENAI Project 🚀</h1>', unsafe_allow_html=True)
 
 st.markdown('<div class="centered">', unsafe_allow_html=True)
 input_text = st.text_area("📝 Enter your Job Description text here", key="input")
